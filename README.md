@@ -1,32 +1,32 @@
-# 🚀 Aggregate Functions & Grouping
+📊 Task 4: Aggregate Functions & Grouping
+🧠 Objective
+Practice SQL aggregate functions to summarize and analyze tabular data using SUM, COUNT, AVG, GROUP BY, and HAVING.
 
-This repository shows my practical understanding of *aggregate functions, **grouping, and **filtering groups* in SQL.
+🛠 Tools Used
+MySQL Workbench / DB Browser for SQLite
 
----
+🔍 Key Concepts
+Aggregation (SUM, AVG, COUNT, MAX, MIN)
 
-## 📊 What’s inside?
+Grouping records using GROUP BY
 
-- ✅ SQL table creation script for Sales
-- ✅ Sample INSERT statements to populate test data
-- ✅ Real-world examples using SUM(), COUNT(), AVG(), MIN(), MAX(), LENGTH()
-- ✅ GROUP BY and HAVING examples to summarize and filter groups
-- ✅ Queries tested and executed in *Oracle SQL*Plus*
+Filtering groups with HAVING
 
----
+Difference between WHERE and HAVING
 
-## 💡 Key Learning Outcomes
+Grouping by multiple columns
 
-- Summarizing tabular data using aggregate functions
-- Grouping rows with GROUP BY to derive insights
-- Filtering entire groups with HAVING vs filtering rows with WHERE
-- Counting distinct values to avoid duplication
+Using ROUND() and DISTINCT
 
----
+📁 Deliverables
+SQL queries demonstrating use of:
 
-## 🛠 Tools Used
+Aggregate functions
 
-*Oracle SQL*Plus*
+Grouping by columns
 
----
+Filtering grouped data
 
-✨ Happy querying & data crunching! ✨
+📌 Learning Outcome
+Gained the ability to perform summarization and extract insights from datasets using SQL.
+
